@@ -1,3 +1,5 @@
+可执行文件被删除了吗？？？现在如何下载？
+
 # ScienceReadingPDFDownloader
 
 最好先```pip install alive_progress```
